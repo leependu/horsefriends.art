@@ -249,8 +249,10 @@ h7 {
 }
 
 .info-box-red {
-	background-color:rebeccapurple;
+	background-image: url("images/collage_for_button.png");
+	background-size: cover;
 	color:#FFFFFF;
+	text-shadow: 2px 2px 5px darkred;
 	padding: 30px; 20px; 60px;
 	text-align: center;
 }
