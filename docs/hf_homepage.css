@@ -79,7 +79,7 @@ a {
 }
 
 .info-box-red {
-	background-image: url("images/disc/button.png");
+	background-image: url("https://horsefriends.art/images/button.png");
 	background-size: cover;
 	color:#FFFFFF;
 	text-shadow: 2px 2px 5px darkred;
