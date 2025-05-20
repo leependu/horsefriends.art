@@ -60,7 +60,7 @@ body {background-color:skyblue;}
 }
 .btn-lego {
 	border-color:orangered;
-	background-image:url("https://horsefriends.art/images/button.png");
+	background-image:url("https://horsefriends.art/images/lego-button.png");
 	background-size:cover;
 	padding:20px 60px;
 }
