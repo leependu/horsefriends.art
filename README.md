@@ -1,2 +1,7 @@
 # horsefriends.art.git
-README.md
+
+`GitHub Pages` -> [horsefriends.art](https://horsefriends.art)
+
+## README.md
+
+This is the GitHub repository for [horsefriends.art](https://horsefriends.art), the Horse Friends website, which is hosted via [GitHub Pages](https://pages.github.com/). It's a simple website, feel free to look around.
