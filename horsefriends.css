@@ -9,9 +9,9 @@ body {background-color:skyblue;}
 /* h4 for leependu.com */h4 {color:mediumpurple;font-size:40px;font-weight:bold;text-align:left;}
 /* h5 for footer text */h5 {color:dimgray;text-align:left;}
 /* h6 for friends, section title */h6 {color:indianred;font-size:56px;font-weight:bold;text-align:left;}
-/* h7 for annotation */h7 {color:dimgray;font-size:16px;text-align:center;}
-/* h8 for album title */h8 {color:orangered;font-size:56px;font-weight:bold;text-align:left;}
-/* h9 for album release date */h9 {color:orangered;font-size:22px;font-weight:normal;font-style:italic;text-align:left;}
+/* h7 for annotation */.h7 {color:dimgray;font-size:16px;text-align:center;}
+/* h8 for album title */.h8 {color:orangered;font-size:56px;font-weight:bold;text-align:left;}
+/* h9 for album release date */.h9 {color:orangered;font-size:22px;font-weight:normal;font-style:italic;text-align:left;}
 .logo {
 	width:80px;
 	margin-left:auto;
