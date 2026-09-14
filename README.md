@@ -1,4 +1,4 @@
-# <img src="./docs/images/horsefriends.ico" width="36" height="36"> horsefriends.art.git
+# <img src="./images/horsefriends.ico" width="36" height="36"> horsefriends.art.git
 
 `GitHub Pages` -> [horsefriends.art](https://horsefriends.art)
 
